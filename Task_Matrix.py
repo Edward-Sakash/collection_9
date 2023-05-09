@@ -4,9 +4,8 @@ You are given a two dimensional list of numbers. Calculate the mean of those num
 Input:
 numbers = [[5, 6, 3], [8, 3, 1], [9, 10, 4], [8, 4, 2]]
 Output:
-> mean(numbers)
-
-[19, 65, 23, 90]"""
+mean([[5, 6, 3], [8, 3, 1], [9, 10, 4], [8, 4, 2]]) ---> 
+[4.666666666666667, 4.0, 7.666666666666667, 4.666666666666667]"""
 
 # Solution 1
 
